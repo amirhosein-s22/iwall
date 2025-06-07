@@ -1,0 +1,30 @@
+[
+  {
+    "status": "on",
+    "txt": "24-Hour Free Trial"
+  },
+  {
+    "status": "on",
+    "txt": "30 Day | $15",
+    "price": "15",
+    "days": "30"
+  },
+  {
+    "status": "on",
+    "txt": "60 Day | $20",
+    "price": "20",
+    "days": "60"
+  },
+  {
+    "status": "on",
+    "txt": "120 Day | $35",
+    "price": "35",
+    "days": "120"
+  },
+  {
+    "status": "on",
+    "txt": "365 Day | $70",
+    "price": "70",
+    "days": "365"
+  }
+]
