@@ -1,5 +1,6 @@
 {
   "w1": "off",
+  "l1": "off",
   "plans": "https://raw.githubusercontent.com/amirhosein-s22/iwall/refs/heads/main/plansme",
   "status": "https://raw.githubusercontent.com/amirhosein-s22/iwall/refs/heads/main/stme"
 }
