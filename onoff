@@ -1,6 +1,5 @@
 {
-  "w1s":"off",
-  "w1k":"on",
-  "w1p":"https://raw.githubusercontent.com/amirhosein-s22/iwall/refs/heads/main/plansme",
-  "w1l":"https://raw.githubusercontent.com/amirhosein-s22/iwall/refs/heads/main/stme"
+  "w1": "off",
+  "plans": "https://raw.githubusercontent.com/amirhosein-s22/iwall/refs/heads/main/plansme",
+  "status": "https://raw.githubusercontent.com/amirhosein-s22/iwall/refs/heads/main/stme"
 }
