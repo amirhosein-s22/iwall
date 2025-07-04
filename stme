@@ -1,12 +1,11 @@
 {
   "last_version": "320",
   "status": "on",
-  "update": "of",
-  "update_url": "https://Rubika.ir",
+  "update": "off",
+  "update_url": "https://t.me/ProxyMTProto/41526",
   "crypto": "off",
   "telegram": "off",
   "admin": "username",
   "channel": "username",
-  "package": "com.rubilight.am",
-  "code": "W100"
+  "key": "DHMNPVN-SVHMPSK-N5BH4A2-71F8ZQ0"
 }
