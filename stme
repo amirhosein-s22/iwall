@@ -3,8 +3,8 @@
   "status": "on",
   "update": "off",
   "update_url": "https://t.me/ProxyMTProto/41526",
-  "crypto": "off",
-  "telegram": "off",
+  "crypto": "on",
+  "telegram": "on",
   "admin": "username",
   "channel": "username",
   "key": "DHMNPVN-SVHMPSK-N5BH4A2-71F8ZQ0"
